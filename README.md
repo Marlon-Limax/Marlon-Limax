@@ -17,8 +17,7 @@
   <img align="center" alt="Cindi-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 <img align="center" alt="Cindi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
 <img align="center" alt="Cindi-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  </div>
-  <img align="right" alt="Limax-pic" height="150" style="border-radius:50px;" src="https://discord.com/channels/690566773501591563/990470106721161267/1020124841434681445">
+  <img align="right" alt="Limax-pic" height="140" style="border-radius:50px;" src="Limax.png">
 </div>
   
    ##
