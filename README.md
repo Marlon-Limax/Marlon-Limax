@@ -1,4 +1,4 @@
-### Hello, I'm Limax 👋
+### Hello, I'm Limax 👋 | I currently work with Cloud Computing and also study flutter.
 
 ##
 <h1> ⚡ GitHub Stats <br><br>
